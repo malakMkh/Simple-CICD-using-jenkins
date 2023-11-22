@@ -1,4 +1,6 @@
 # Simple-CICD-using-jenkins
+![image](https://github.com/malakMkh/Simple-CICD-using-jenkins/assets/123992427/532579d5-5ecd-4351-9d1d-b81fc9f34c31)
+
 configuration de  projet Jenkins avec un script shell directement dans la configuration du projet (plutôt que d'utiliser un fichier Jenkinsfile dans votre dépôt Git),
 
 1. Creating an AWS ec2 instance with ubuntu AMI.
